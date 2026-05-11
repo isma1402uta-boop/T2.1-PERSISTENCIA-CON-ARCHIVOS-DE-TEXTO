@@ -1,5 +1,5 @@
 # T2.1 PERSISTENCIA CON ARCHIVOS DE TEXTO
-Trabajo
+
 # 🎓 Proyecto de Consolidación: Algoritmos y Persistencia de Datos
 
 ![Carrera](https://img.shields.io/badge/Carrera-Software-blue)
